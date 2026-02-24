@@ -1,2 +1,2 @@
 # SENSORIA-OMAR
-Repository of Medicina AND IA
+Repository of Medicine AND AI
